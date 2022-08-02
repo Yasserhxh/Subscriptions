@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b1ff8b6b_002Df8cf_002D4136_002D9625_002D5ea3bef62559/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Create_DatetimeRange_From_Expiration_In_Days" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5E0CAB5-B60E-485E-9A3D-0601604A63A7::net5.0::Subscriptions.Domain.Tests.Common.TimelineExpirationTests.Create_DatetimeRange_From_Expiration_In_Days&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5E0CAB5-B60E-485E-9A3D-0601604A63A7::net5.0::Subscriptions.Domain.Tests.Common.TimelineExpirationTests.Create_DatetimeRange_From_Expiration_In_Months&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5E0CAB5-B60E-485E-9A3D-0601604A63A7::net5.0::Subscriptions.Domain.Tests.Entities.ManyFinitePaidTimeLineDefinitionTests.ManyFinitePaidTimeLineDefinition_Build_Many_Paid_Timelines&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5E0CAB5-B60E-485E-9A3D-0601604A63A7::net5.0::Subscriptions.Domain.Tests.Entities.MonthlyFinitePaidTimeLineDefinitionTests.Build_Many_Paid_Timelines_Starting_From_Specific_Day&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5E0CAB5-B60E-485E-9A3D-0601604A63A7::net5.0::Subscriptions.Domain.Tests.Entities.TimelinesTests.FiniteFreeTimeLine_Is_Valid_Until_The_End&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5E0CAB5-B60E-485E-9A3D-0601604A63A7::net5.0::Subscriptions.Domain.Tests.Entities.TimelinesTests.InfiniteFreeTimeLine_Is_Valid_Until_You_Make_It_Finite&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5E0CAB5-B60E-485E-9A3D-0601604A63A7::net5.0::Subscriptions.Domain.Tests.Entities.TimelinesTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Subscriptions.Application\Subscriptions.Application.csproj" />
+      <ProjectReference Include="..\Subscriptions.Consumers\Subscriptions.Consumers.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MassTransit.AspNetCore" Version="7.3.1" />
+      <PackageReference Include="MassTransit.Azure.ServiceBus.Core" Version="7.3.1" />
+    </ItemGroup>
+
+</Project>
